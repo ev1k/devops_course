@@ -9,6 +9,3 @@
           run: uptime
         - name: Where am I?
           run: pwd
-
-
-          
