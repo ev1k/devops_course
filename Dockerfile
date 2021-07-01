@@ -17,3 +17,4 @@ RUN chown -R runner:runner /usr/local/http-server/
 
 USER runner
 CMD ["python3", "-u", "/usr/local/http-server/application.py"]
+###END
